@@ -11,7 +11,7 @@ public class testNGAntJenkins {
 	@Test
 	public void Navigate() throws InterruptedException {
 		
-		/*------------GitHub Integeration with Jenkins--------------*/
+		/*------------GitHub Integeration with Jenkins and WebHook Verification----------*/
 
 		System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\geckodriver.exe");
 		
