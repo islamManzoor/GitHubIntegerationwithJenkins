@@ -10,6 +10,8 @@ import org.testng.annotations.Test;
 public class testNGAntJenkins {
 	@Test
 	public void Navigate() throws InterruptedException {
+		
+		/*------------GitHub Integeration with Jenkins--------------*/
 
 		System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\geckodriver.exe");
 		
